@@ -1,0 +1,12 @@
+# Ignorar archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+
+# Ignorar entorno virtual
+env/
+venv/
+
+# Ignorar configuraciones de VSCode
+.vscode/
